@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Lato", "Arial", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  z-index: -1;
+  background-image: linear-gradient(rgba(244,196,243,0.6), rgba(244,196,243,0.6)), url(./BckgrndImg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+
+h1 {
+  font-weight: 400;
+  margin-left: 540px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-weight: 100;
+  margin-left: 530px;
+  font-size: 100%
+}
+
+.forms {
+  background-color: rgba(252,103,250, 0.7);
+  border: 50px rgba(252,103,250, 0.7);
+  border-radius: 10px;
+  z-index: 1;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+label, p {
+  width: 100%;
+  text-align: left;
+  /* margin-bottom: 10px; */
+  font-size: 120%;
+}
+
+
+.line {
+  width: 100%;
+  padding: 0px, 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  height: 32px;
+}
+
+input::placeholder {
+  font-size: 130%;
+  padding: 0px 10px;
+}
+
+.radio {
+  min-height: 15px;
+  min-width: 15px;
+  padding: 0px, 15px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+button {
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 60px;
+  font-size: 120%;
+  padding: 5px;
+  background-color: purple;
+  border-radius: 5px;
+}

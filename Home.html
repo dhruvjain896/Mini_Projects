@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Developer's Job Survey</title>
+  </head>
+  <body>
+    <div class="transbox">
+      <h1>Developer's Job Survey</h1>
+      <h2>Thank you for taking the time to fill out the survey</h2>
+    </div>
+    <div class="forms">
+      <form action="">
+        <label for="name">Name</label>
+        <input
+          type="text"
+          name="name"
+          id="name"
+          placeholder="Enter your name "
+          class="line"
+        /><br />
+        <label for="email">Email</label>
+        <input type="email" placeholder="Enter your email" class="line" /><br />
+        <label for="age">Age</label>
+        <input type="number" placeholder="Age" class="line" /><br />
+        <label for="work experience">Work experience (in years)</label>
+        <input type="number" placeholder="Ex. 5+" class="line" /><br />
+        <p>Which company do you currently work in?</p>
+        <input type="text" placeholder="Ex. Alphabet Inc." class="line" />
+        <p>Is it a FAANG company?</p>
+        <input type="radio" name="boolean" id="" value="yes" class="radio"/> Yes &ensp;  
+        <input type="radio" name="boolean" id="" value="no" class="radio"/> No
+        <br />
+        <label for="salary">What's your current salary?</label>
+        <input type="number" placeholder="Ex. 50k+" class="line"/><br />
+        <p>Are you satisfied with it?</p>
+        <input type="radio" name="boolean" id="" value="yes" class="radio"/> Yes &ensp;  
+        <input type="radio" name="boolean" id="" value="no" class="radio"/> No
+        <br />
+        <p>With which programming language does your revolves around with?</p>
+        <input type="checkbox" value="cpp" name="programming" id="" class="radio"/>C++ &ensp;  
+        <input
+          type="checkbox"
+          value="javascript"
+          name="programming"
+          id=""
+          class="radio"
+        />Javascript &ensp;  
+        <input type="checkbox" value="java" name="programming" id="" class="radio"/>Java &ensp;  
+        <input type="checkbox" value="python" name="programming" id="" class="radio"/>Python &ensp;  
+        <input type="checkbox" value="other" name="programming" id="" class="radio"/>Other &ensp;  
+        <br />
+        <p>Are you satisfied with your current job?</p>
+        <input type="radio" name="boolean" id="" value="yes" class="radio"/> Yes &ensp;  
+        <input type="radio" name="boolean" id="" value="no" class="radio"/> No &ensp;  
+        <br />
+        <button>Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
