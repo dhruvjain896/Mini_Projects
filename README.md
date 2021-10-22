@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Tip Calculator
+Calculates the bill by adding the tip and divides it by the number of people. Printing out bill to be paid by every person.
