@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Survey Form Page
+A basic Developer survey page made by using HTML and CSS.
