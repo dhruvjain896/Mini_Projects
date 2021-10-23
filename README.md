@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Hangman Game
+Hangman Word Guessing Game using python and ascii art.
