@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Basic Calculator
+Basic calculator in python performing +, -, *, / operations on two numbers
