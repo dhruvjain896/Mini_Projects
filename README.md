@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Guess The Number
+Guess the number game using python and ascii art
