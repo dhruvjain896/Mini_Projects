@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Higher Lower Game
+Higher lower game based on Instagram followers in python
