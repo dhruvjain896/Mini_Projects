@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Regenerating Hirst Painting
+Regenerating Hirst Painting by picking colors from Hirst Dot Painting using colorgram and implementing dots using turtle
