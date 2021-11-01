@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Etch a Sketch
+Making an Etch a Sketch app using turtle library in Python
