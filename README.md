@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Turtle Crossing Game
+Turtle Crossing Game using turtle library in Python
