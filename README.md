@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## U.S. States Game 
+The U.S. states game using turtle library in Python
