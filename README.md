@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Miles to Km Converter
+A GUI app to convert miles to km made from tkinter library in python
