@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Password Manager
+Manage all your passwords in a json file. You can search, save and create random passwords.
