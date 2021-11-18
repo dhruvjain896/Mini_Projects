@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Flash Card App
+Learn French to English by using flash cards of 100 most common french words
