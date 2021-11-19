@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Automated Birthday Wisher
+Email your loved ones happy birthday on their special day using this project made with smptlib in python
