@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Trivia Quiz GUI App
+Play trivia quiz, made with tkinter in Python
