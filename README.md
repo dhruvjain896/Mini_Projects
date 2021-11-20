@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## ISS Overhead Notifier
+Notifies you by email whenever ISS is overhead you at night.
