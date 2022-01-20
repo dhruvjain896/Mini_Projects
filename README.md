@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Stock Trading News Alert Notifier
+Get Stock News Alert based on the previous day highs and lows of the price of the stock using Twilio API
