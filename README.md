@@ -1,3 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.
+## Rain Check Notifier
+Get SMS or Whatsapp message using Twilio API whether you need umbrella or not using Open Weather Map weather forecast API
