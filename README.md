@@ -1,4 +1,5 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.  
-Each branch is a different project
+## Instagram Follower Bot 
+Follow the followers of a famous personality (related to your account content) on Instagram  
+in hope they might like your account and follow you back
