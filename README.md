@@ -1,4 +1,4 @@
 # Mini_Projects
 
-This repo consists of mini projects like rock, paper and scissor; number guessing game etc.  
-Each branch is a different project
+## 100 Movies To Watch 
+Get 100 Top Movies List in txt format by Web Scraping www.empireonline.com Website
